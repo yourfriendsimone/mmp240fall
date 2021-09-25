@@ -1,0 +1,45 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  background: #808000;
+}
+
+#wrapper{
+  width: 640px;
+  margin: 0 auto;
+  background: white;
+  padding:1rem;
+}
+
+h1, h2{
+  color: orange;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+
+}
+
+h1{
+  font-size: 2rem;
+  text-align: center;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+p{
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+ul, ol{
+  line-height: 2rem;
+}
+
+a:visited{
+  color:blue;
+}
